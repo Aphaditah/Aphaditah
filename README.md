@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aphaditah
 - 👀 I’m interested in automation
 - 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on intelligence people 
+- 💞️ I’m looking to collaborate on automation
 - 📫 How to reach me drlelouch049@gmail.com
 
 <!---
